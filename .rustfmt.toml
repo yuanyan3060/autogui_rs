@@ -1,0 +1,3 @@
+max_width = 150
+attr_fn_like_width = 150
+fn_params_layout = "Compressed"
